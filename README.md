@@ -29,27 +29,30 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. What is the DOM?
-
+    <!-- Closed the window after finishing and forgot to save my questions hope the brevity is ok -->
+    <!-- The web API -->
 2. What is an event?
-
+    <!-- Any action such as a mouse movement or click -->
 3. What is an event listener?
-
+    <!-- Program that is set to listen and trigger from an even and activate some other code-->
 4. Why would we convert a NodeList into an Array?
-
+    <!--  NodeList is array like but not an actual array. If converted methods may be used-->
 5. What is a component?
+    <!-- As Alex E. says they are small reusable bundles of functionality (in our case typically for creating nodeLists and manipulating js to create websites)-->
+
 
 ### Git Set up
 
-* [ ] Fork the project into your GitHub user account
-* [ ] Clone the forked project into a directory on your machine
-* [ ] Create a pull request before you start working on the project requirements.  You will continuously push your updates throughout the project.
-* [ ] You are now ready to build this project with your preferred IDE
+* [x] Fork the project into your GitHub user account
+* [x] Clone the forked project into a directory on your machine
+* [x] Create a pull request before you start working on the project requirements.  You will continuously push your updates throughout the project.
+* [x] You are now ready to build this project with your preferred IDE
 
 ## Minimum Viable Product
 
 Your finished project must include all of the following requirements:
 
-* [ ] Look through the HTML code and familiarize yourself with the different sections. Some of them already exist, but some need to be filled in. DO NOT add any code to the HTML file itself.
+* [x] Look through the HTML code and familiarize yourself with the different sections. Some of them already exist, but some need to be filled in. DO NOT add any code to the HTML file itself.
 
 * [ ] Following the instructions in the `Header/index.js` file, create the Header component. 
 
